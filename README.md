@@ -4,7 +4,7 @@ Ini adalah repositori untuk website portfolio pribadi saya. Website ini dibuat d
 
 ## Demo 🚀
 
-Anda dapat melihat demo langsung dari website portfolio ini [di sini](https://example.com).
+Anda dapat melihat demo langsung dari website portfolio ini [di sini](https://portfolio-henna-omega-33.vercel.app/#).
 
 ## Fitur 🛠️
 
